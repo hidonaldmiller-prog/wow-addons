@@ -1,0 +1,23 @@
+## Interface: 30405, 38001
+## Title: DCT
+## Version: 2.46
+## Notes: Combat text core for Classic-era clients.
+## Author: xuanmo
+## X-Credits: Dennie, BigFoot
+## SavedVariables: DCT_SAVE,DCT_FONT_SAVE
+## SavedVariablesPerCharacter: DCT_SAVE_PERCHAR
+
+DCT_ui_patch.lua
+DCT_font.lua
+DCT_default_config.Lua
+
+locals\cn_DCT_default_config.Lua
+locals\tw_DCT_default_config.Lua
+
+DCT_anibase.lua
+DCT_aniframe.lua
+DCT_cd.lua
+DCT.lua
+DCT.xml
+DCT_castbar.lua
+DCT_castbar.xml

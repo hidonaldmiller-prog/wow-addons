@@ -1,0 +1,20 @@
+## Interface: 30405, 38001
+## Title: DCT Damage
+## Version: 2.46
+## Notes: Damage output module for DCT.
+## Author: xuanmo
+## X-Credits: Dennie, BigFoot
+## Dependencies: dct
+## X-Revision: BigFoot
+## SavedVariables: DCTD_CONFIG
+## SavedVariablesPerCharacter: DCTD_PERCONFIG
+## LoadOnDemand: 1
+
+dctd_default.lua
+loc_dctd.lua
+
+locals\cn_loc_dctd.lua
+
+dctd.lua
+dctd_options.lua
+dctd_options.xml
