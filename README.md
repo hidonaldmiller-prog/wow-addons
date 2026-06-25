@@ -1,6 +1,6 @@
 # wow-addons
 
-时光服的一些插件进行了改良，变得好用。
+时光服的一些插件进行了改良，变得好用。  PS：这些插件非本人开发，只是在原作者的基础上进行了一定的改动。
 
 The add-ons for Time Classic server have been fully optimized for better practical performance.
 
